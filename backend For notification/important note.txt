@@ -1,0 +1,6 @@
+mail and password assign in com.nagarro.Notification_System.serviceImpl.Observer_User class
+public String sender="@gmail.com";
+public String password="******";
+
+for Admin
+user_loin table should have role Admin.
